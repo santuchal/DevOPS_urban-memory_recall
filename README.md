@@ -6,7 +6,7 @@ DevOps is a philosophy and set of practices that brings teams together to delive
 
 ### 1 Programming Language 
 
-- Python : Scripting for web 
+- <s>Python : Scripting for web </s>
 - Shell  : Scripting for servers 
 - Yml    : For Configuration of Cloud files
 - Golang : Servers and Cloud Architectures
