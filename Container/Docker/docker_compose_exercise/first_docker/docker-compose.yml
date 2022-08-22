@@ -1,0 +1,6 @@
+version: '2'
+services:
+  santu:
+    image: ubuntu
+    command: [bin/python3, hello.py]
+
