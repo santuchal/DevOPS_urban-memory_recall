@@ -1,0 +1,10 @@
+name: github_actions_python
+on: [push]
+jobs:
+  check-python-version:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout
+        with:
+          python-version: '3.8'
+      - run: python -v
